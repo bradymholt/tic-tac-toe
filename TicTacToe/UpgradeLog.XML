@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TicTacToe">
+</Property><Property Name="Solution File" Value="M:\Documents\Visual Studio Projects\TicTacToe\TicTacToe.sln">
+</Property><Property Name="Date" Value="Friday, January 25, 2008">
+</Property><Property Name="Time" Value="9:32 AM">
+</Property></Properties><Event ErrorLevel="0" Project="TicTacToe" Source="TicTacToe.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TicTacToe" Source="TicTacToe.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TicTacToe.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TicTacToe.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TicTacToe" Source="TicTacToe.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TicTacToeSetup.vdproj" Source="..\TicTacToeSetup\TicTacToeSetup.vdproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TicTacToeSetup.vdproj" Source="..\TicTacToeSetup\TicTacToeSetup.vdproj" Description="Converted">
+</Event></UpgradeLog>
